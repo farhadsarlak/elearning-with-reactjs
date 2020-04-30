@@ -1,0 +1,9 @@
+.segmentLoader{
+    width: 100vw!important;
+    height: 100vh!important;
+    margin: 0 auto!important;
+    text-align: center!important;
+}
+.mainLayoutContainer{
+    margin-top: 80px!important;
+}

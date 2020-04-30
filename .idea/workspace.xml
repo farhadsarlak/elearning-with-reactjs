@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ac6b442-93f2-4105-86b1-87c7a5354094" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1aqINVd83IrEoJhMHD46FUVwivt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coptProject(10-2-99)" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\reactProject\elearning\Project\public" />
+      <recent name="F:\Projects\reactProject\elearning\Project\src\assets\images" />
+      <recent name="F:\Projects\reactProject\elearning\Project\public\assets\images" />
+      <recent name="F:\Projects\reactProject\elearning\Project\src\components\admin\pages\adminHomePage" />
+      <recent name="F:\Projects\reactProject\elearning\Project\src\components\singleCourse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\reactProject\elearning\Project\public\styles" />
+      <recent name="F:\Projects\reactProject\elearning\Project\public\assets\images" />
+      <recent name="F:\Projects\reactProject\elearning\Project\src\assets\images" />
+      <recent name="F:\Projects\reactProject\elearning\Project\public\css" />
+      <recent name="F:\Projects\reactProject\elearning\Project\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ac6b442-93f2-4105-86b1-87c7a5354094" name="Default Changelist" comment="" />
+      <created>1587456657585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587456657585</updated>
+      <workItem from="1587456660147" duration="1343000" />
+      <workItem from="1587459288530" duration="239884000" />
+      <workItem from="1588170933458" duration="28541000" />
+      <workItem from="1588260223023" duration="2500000" />
+      <workItem from="1588263613143" duration="1185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1587457113961">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1587457113961" />
+    <state x="175" y="0" key="#Plugins" timestamp="1587457306005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Plugins/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1587457306005" />
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587543926207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1587543926207" />
+    <state x="393" y="137" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588174424941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="137" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588174424941" />
+    <state x="214" y="0" width="1048" height="728" key="CommitChangelistDialog2" timestamp="1587634850976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="214" y="0" width="1048" height="728" key="CommitChangelistDialog2/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1587634850976" />
+    <state x="413" y="61" key="FileChooserDialogImpl" timestamp="1588263643371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="61" key="FileChooserDialogImpl/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588263643371" />
+    <state width="1339" height="269" key="GridCell.Tab.0.bottom" timestamp="1588264222946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588264222946" />
+    <state width="1339" height="269" key="GridCell.Tab.0.center" timestamp="1588264222946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="269" key="GridCell.Tab.0.center/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588264222946" />
+    <state width="1339" height="269" key="GridCell.Tab.0.left" timestamp="1588264222946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="269" key="GridCell.Tab.0.left/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588264222946" />
+    <state width="1339" height="269" key="GridCell.Tab.0.right" timestamp="1588264222946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="269" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588264222946" />
+    <state x="111" y="0" key="SettingsEditor" timestamp="1587459594083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="111" y="0" key="SettingsEditor/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1587459594083" />
+    <state x="462" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587634795463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1587634795463" />
+    <state x="255" y="159" key="run.anything.popup" timestamp="1588156041721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588156041721" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1588148002198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1588148002198" />
+  </component>
+</project>

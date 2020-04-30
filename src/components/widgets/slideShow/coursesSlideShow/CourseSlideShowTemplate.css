@@ -1,0 +1,95 @@
+.offerItems{
+    box-shadow: none!important;
+    border: none!important;
+    margin: 0 auto!important;
+}
+.card-productOffers{
+    font-weight: normal;
+    text-align: right;
+    margin: 0 auto!important;
+    max-height: 400px!important;
+    height: 400px!important;
+}
+
+.cart-header-productOffer{
+    font-weight: bold!important;
+    font-size: 14px!important;
+    direction: rtl!important;
+    text-align: justify!important;
+}
+.textLeft{
+    text-align: left !important;
+    font-weight: bold !important;
+}
+@media only screen and (max-width: 767px) {
+    .cart-header-productOffer{
+        font-size: 13px!important;
+    }
+    .card-productOffers{
+        max-height: 250px!important;
+        height: 250px!important;
+    }
+    .priceFont{
+        font-size: 10px!important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .cart-header-productOffer{
+        font-size: 13px!important;
+    }
+    .card-productOffers{
+        max-height: 300px!important;
+        height: 300px!important;
+    }
+    .cart-header-productOffer{
+        font-size: 13px!important;
+    }
+    .textLeft{
+        font-size: 12px!important;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .card-productOffers{
+        max-height: 270px!important;
+        height: 270px!important;
+    }
+    .cart-header-productOffer{
+        font-size: 12px!important;
+    }
+    .textLeft{
+        font-size: 11px!important;
+    }
+}
+@media only screen and (max-width: 390px) {
+    .card-productOffers{
+        max-height: 250px!important;
+        height: 250px!important;
+    }
+    .cart-header-productOffer{
+        font-size: 11px!important;
+    }
+    .main-segment-offer{
+        margin:0!important;
+    }
+    .textLeft{
+        font-size: 10px!important;
+    }
+}
+@media only screen and (max-width: 350px) {
+    .card-productOffers{
+        max-height: 200px!important;
+        height: 200px!important;
+    }
+    .cart-header-productOffer{
+        font-size: 10px!important;
+    }
+    .main-segment-offer{
+        margin:0!important;
+    }
+    .textLeft{
+        font-size: 8px!important;
+    }
+}
+

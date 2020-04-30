@@ -1,0 +1,31 @@
+.mainMenu{
+    box-shadow: 1px 1px 5px #4a4a4a!important;
+    z-index: 1000!important;
+    padding: 0!important;
+    margin: 0!important;
+}
+.searchMenu{
+    padding: 0!important;
+}
+
+@media only screen and (max-width: 900px) {
+    .mainMenu{
+        font-size: 12px!important;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .mainMenu{
+        font-size: 11px!important;
+    }
+}
+@media only screen and (max-width: 450px) {
+    .mainMenu{
+        font-size: 10px!important;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .mainMenu{
+        font-size: 10px!important;
+    }
+}
+

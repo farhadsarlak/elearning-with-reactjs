@@ -1,0 +1,54 @@
+.cardItem{
+    margin: 30px auto!important;
+}
+.textLeft>div {
+    font-size: 13px!important;
+    text-align: right!important;
+}
+.dropdownSortItem{
+    font-size: 1em!important;
+}
+@media only screen and (max-width: 694px) {
+    .textLeft>div{
+        font-size: 12px!important;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .textLeft>div{
+        font-size: 11px!important;
+    }
+    .dropdownSortItem{
+        font-size: 0.7em!important;
+    }
+    .item{
+        margin: 0 2px!important;
+        padding: 0!important;
+    }
+}
+@media only screen and (max-width: 422px) {
+    .cardItem{
+        width: 40%!important;
+    }
+    .textLeft>div{
+        font-size: 10px!important;
+    }
+    .dropdownSortItem{
+        font-size: 0.6em!important;
+    }
+    .item{
+        margin: 0 2px!important;
+        padding: 0!important;
+    }
+}
+@media only screen and (max-width: 340px) {
+    .textLeft>div{
+        font-size: 10px!important;
+    }
+    .dropdownSortItem{
+        font-size: 0.55em!important;
+    }
+    .item{
+        margin: 0 2px!important;
+        padding: 0!important;
+    }
+}

@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'yekan';
+  src: url('./assets/fonts/BYekan.eot');
+  src: url('./assets/fonts/BYekan.eot?#iefix') format('embedded-opentype'),
+  url('./assets/fonts/BYekan.woff2') format('woff2'),
+  url('./assets/fonts/BYekan.woff') format('woff'),
+  url('./assets/fonts/BYekan.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family:'yekan', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(45deg, #f1f7fb 0%, #ffffff 100%)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+.ui *{
+  font-family: 'yekan',Icons !important;
+}
+
+.Toastify__toast-container{
+  direction: rtl!important;
+  text-align: right!important;
+}
+.Toastify__toast{
+  font-family: 'yekan'!important;
+  font-size: 13px!important;
+  font-weight: bold!important;
+}
+.ui.inverted.teal.menu .active.item{
+  padding: 15px!important;
+}
+
+.slick-dots {
+  bottom: 0;
+}
+
+.slick-initialized .slick-slide {
+  padding: 7px!important;
+}
+
+.slick-next:before, .slick-prev:before {
+  font-size: 30px!important;
+  color: #191310 !important;
+}
+.slick-next{
+  background-color: rgba(255,225,225,.8)!important;
+  width: 40px;
+  height: 60px;
+  box-shadow: 3px 3px 4px #9b98a5;
+  left: -15px!important;
+  border-radius: 5px;
+  z-index: 100;
+}
+
+.slick-prev{
+  background-color: rgba(255,225,225,.8)!important;
+  width: 40px;
+  height: 60px;
+  box-shadow: 3px 3px 4px #9b98a5;
+  right: -15px!important;
+  border-radius: 5px;
+  z-index: 100;
+}
+@media only screen and (max-width: 400px) {
+  .slick-prev,.slick-next{
+    width: 10px;
+    height: 30px;
+  }
+}

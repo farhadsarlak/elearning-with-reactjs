@@ -1,0 +1,13 @@
+
+.imageContent{
+    padding: 20px!important;
+    margin: auto 0!important;
+}
+.modalDescription{
+    margin-right: 10px!important;
+    width:60%!important;
+}
+
+.ModalTextArea textarea{
+    resize: none!important;
+}

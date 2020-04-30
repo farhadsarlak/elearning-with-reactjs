@@ -1,0 +1,16 @@
+.mainLoginRegisterSegment{
+    width: 50%!important;
+    margin: 100px auto!important;
+}
+
+@media only screen and (max-width: 900px) {
+    .mainLoginRegisterSegment {
+        width: 70%!important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .mainLoginRegisterSegment {
+        width: 100%!important;
+    }
+}
