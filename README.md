@@ -10,6 +10,9 @@ redux-persist
 ===============
 ![](src/assets/images/elearning-react.jpg)
 
+admin panel : email: younes.gh@chmail.ir  password:123456
+
+onLine View ==> [https://farhadsarlak.github.io/elearning-with-reactjs/]
 
 
 ## Available Scripts
